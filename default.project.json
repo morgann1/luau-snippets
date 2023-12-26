@@ -1,0 +1,14 @@
+{
+    "name": "luau-snippets",
+    "tree": {
+        "$className": "DataModel",
+        "ReplicatedStorage": {
+            "$className": "ReplicatedStorage",
+            "LuauSnippets": {
+                "$className": "Folder",
+                "$path": "modules"
+            },
+            "$ignoreUnknownInstances": true
+        }
+    }
+}
